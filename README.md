@@ -19,6 +19,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 <p>Hi there! I'm Faisal and I'm passionate about creating high quality, well-maintained, visually appealing applications. Plus, I get a kick out of making computers act like humans 😉</p>
+<p>💼 Job Status: <strong>🎓 Fresh Graduate</strong> & <strong>🔍 Unemployed</strong> <em>(Seeking Jobs)</em></p>
 
 <!-- Stats -->
 <p align="center">
